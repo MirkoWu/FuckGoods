@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3385FF</color>
+    <color name="colorPrimaryDark">#3385FF</color>
+    <color name="colorAccent">#3385FF</color>
+    <color name="night">#00000000</color>
+
+    <color name="color_white">#ffffff</color>
+    <color name="color_black">#000000</color>
+    <color name="color_gray3">#b3b3b3</color>
+    <color name="color_gray2">#999999</color>
+    <color name="color_gray1">#666666</color>
+    <color name="color_yellow">#fde953</color>
+
+    <color name="activity_background">#FFF5F5F5</color>
+    <color name="shadow_background">#8f000000</color>
+
+    <!--toolbar标题栏文字颜色-->
+    <color name="color_title">@color/color_white</color>
+    <color name="color_textwhite">@color/color_white</color>
+    <!--通用文本颜色-->
+    <color name="color_text">@color/color_gray1</color>
+    <!--通用文本颜色 2级-->
+    <color name="color_text2">@color/color_gray2</color>
+    <!--通用文本颜色 3级-->
+    <color name="color_text3">@color/color_gray3</color>
+    <!--通用分割线细-->
+    <color name="color_divider">#f3f3f3</color>
+
+    <!--通用背景色-->
+    <color name="color_bg">@color/color_white</color>
+
+    <color name="color_green">#2abe2c</color>
+
+
+    <!--&lt;!&ndash;通用触摸背景色&ndash;&gt;-->
+    <!--<color name="common_touch_bg">#E3E3E3</color>-->
+    <!--&lt;!&ndash;通用背景色&ndash;&gt;-->
+    <!--<color name="common_gray_bg">#EEEEEE</color>-->
+    <!--&lt;!&ndash;通用一级标题的颜色&ndash;&gt;-->
+    <!--<color name="common_h1">#212121</color>-->
+    <!--&lt;!&ndash;通用二级标题的颜色&ndash;&gt;-->
+    <!--<color name="common_h2">#727272</color>-->
+    <!--&lt;!&ndash;通用三级标题的颜色&ndash;&gt;-->
+    <!--<color name="common_h3">#B2B2B2</color>-->
+
+    <!--通用分割线粗-->
+    <!--<color name="common_divider_wide">@color/color_white</color>-->
+
+    <!--阅读页面的背景色-->
+    <!--<color name="book_read_bg">@color/color_white</color>-->
+
+    <!--<color name="chapter_title">#81765D</color>-->
+    <!--<color name="chapter_content">#3B3220</color>-->
+    <!--<color name="chapter_page_number">#7D735A</color>-->
+    <!---->
+
+</resources>

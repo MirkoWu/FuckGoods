@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">FuckGoods</string>
+    //Android | iOS | 休息视频 | 福利 | 拓展资源 | 前端 | 瞎推荐 | App
+    <string-array name="gank_type">
+        <item>all</item>
+        <item>Android</item>
+        <item>IOS</item>
+        <item>前端</item>
+        <!-- <item>福利</item>-->
+        <item>App</item>
+        <item>拓展资源</item>
+        <item>瞎推荐</item>
+        <item>休息视频</item>
+    </string-array>
+    <string-array name="tab_type">
+        <item>全部</item>
+        <item>Android</item>
+        <item>IOS</item>
+        <item>前端</item>
+        <!-- <item>福利</item>-->
+        <item>App</item>
+        <item>拓展资源</item>
+        <item>瞎推荐</item>
+        <item>休息视频</item>
+    </string-array>
+
+    //common
+    <string name="ok">确定</string>
+    <string name="del">删除</string>
+    <string name="cancel">取消</string>
+    <string name="exit_app">再按一次,退出程序!</string>
+
+
+    <string name="more">更多</string>
+    <string name="setting">设置</string>
+
+
+    <string name="lookphoto">查看照片</string>
+    <string name="tips_message">提示信息</string>
+    <string name="permission_lack">当前应用缺少必要权限，该功能暂时无法使用。如若需要，请单击【确定】按钮前往设置中心进行权限授权。</string>
+
+    <string name="clearCache_successed">清理完毕</string>
+    <string name="no_found_sdcard">没有发现SD卡</string>
+    <string name="drawer_open">drawer_open</string>
+    <string name="drawer_close">drawer_close</string>
+    <string name="girls">妹子们</string>
+    <string name="source_s">来源:%s</string>
+    <string name="who_s">作者:%s</string>
+    <string name="publishedAt_s">———发布日期:%s</string>
+
+</resources>

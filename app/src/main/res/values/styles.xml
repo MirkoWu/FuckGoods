@@ -1,0 +1,54 @@
+<resources>
+
+    <style name="AppTheme" parent="BaseAppTheme" />
+    <!-- Base application theme. -->
+    <style name="BaseAppTheme" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <!-- <item name="actionMenuTextColor">#ffffff</item>-->
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        //沉浸状态栏
+        <!--  <item name="android:windowIsTranslucent">true</item>-->
+        <!--<item name="android:windowTranslucentStatus">true</item>-->
+
+        //ActionBarDrawerToggle设置颜色
+        <item name="colorControlNormal">@android:color/white</item>
+    </style>
+
+    <!--SwipebackActivity-->
+    <!-- <style name="SwipebackTheme" parent="BaseAppTheme">
+         <item name="android:windowIsTranslucent">true</item>
+         <item name="android:windowBackground">@android:color/transparent</item>
+         &lt;!&ndash; <item name="android:windowTranslucentStatus">true</item>&ndash;&gt;
+     </style>
+ -->
+    <style name="tv_black">
+        <item name="android:textColor">@color/color_text</item>
+        <item name="android:textSize">@dimen/font_16</item>
+    </style>
+
+    <style name="tv_black_bold" parent="tv_black">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">@dimen/font_18</item>
+    </style>
+
+
+    <style name="tv_white">
+        <item name="android:textColor">@color/color_white</item>
+        <item name="android:textSize">@dimen/font_16</item>
+    </style>
+
+    <style name="tv_blue">
+        <item name="android:textColor">@color/colorPrimary</item>
+        <item name="android:textSize">@dimen/font_16</item>
+    </style>
+
+    <style name="tv_yellow">
+        <item name="android:textColor">@color/color_yellow</item>
+        <item name="android:textSize">@dimen/font_16</item>
+    </style>
+
+</resources>

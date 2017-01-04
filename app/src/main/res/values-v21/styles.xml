@@ -1,0 +1,9 @@
+<resources>
+    <!--Swipeback  statusBar-->
+    <style name="Swipeback_StatusBar" parent="BaseAppTheme">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <!-- <item name="android:statusBarColor">@color/colorPrimary</item>-->
+    </style>
+
+</resources>

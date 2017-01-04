@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--标题栏的颜色-->
+    <color name="colorPrimary">#212121</color>
+    <!--状态栏的颜色-->
+    <color name="colorPrimaryDark">@color/color_black</color>
+    <!--控件的选中颜色，即checked或selected状态的颜色。-->
+    <color name="colorAccent">#212121</color>
+    <color name="night">#90000000</color>
+    <!--toolbar标题栏文字颜色-->
+    <color name="color_title">#999999</color>
+    <color name="color_textwhite">#999999</color>
+    <!--通用文本颜色-->
+    <color name="color_text">#999999</color>
+    <!--通用文本颜色 2级-->
+    <color name="color_text2">#666666</color>
+    <!--通用文本颜色 3级-->
+    <color name="color_text3">#505050</color>
+    <!--通用分割线细-->
+    <color name="color_divider">#333333</color>
+
+    <!--通用背景色-->
+    <color name="color_bg">#444444</color>
+
+    <color name="color_green">#2abe2c</color>
+
+
+    <!--&lt;!&ndash;通用触摸背景色&ndash;&gt;-->
+    <!--<color name="common_touch_bg">#3C3C3C</color>-->
+    <!--&lt;!&ndash;通用背景色&ndash;&gt;-->
+    <!--<color name="common_gray_bg">#333333</color>-->
+    <!--&lt;!&ndash;通用一级标题的颜色&ndash;&gt;-->
+    <!--<color name="common_h1">#999999</color>-->
+    <!--&lt;!&ndash;通用二级标题的颜色&ndash;&gt;-->
+    <!--<color name="common_h2">#666666</color>-->
+    <!--&lt;!&ndash;通用三级标题的颜色&ndash;&gt;-->
+    <!--<color name="common_h3">#505050</color>-->
+    <!--&lt;!&ndash;通用分割线细&ndash;&gt;-->
+    <!--<color name="common_divider_narrow">#232323</color>-->
+    <!--通用分割线粗-->
+    <!--<color name="common_divider_wide">#333333</color>-->
+
+    <!--阅读页面的背景色-->
+    <!--<color name="book_read_bg">@color/color_black</color>-->
+
+    <!--<color name="chapter_title">#292929</color>-->
+    <!--<color name="chapter_content">#444444</color>-->
+    <!--<color name="chapter_page_number">#292929</color>-->
+
+</resources>
